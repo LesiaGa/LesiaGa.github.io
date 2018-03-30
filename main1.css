@@ -1,0 +1,520 @@
+@import url('https://fonts.googleapis.com/css?family=Arvo|Indie+Flower|Pacifico|Playfair+Display');
+
+body {
+    background-color: #f8c2ff;
+    font-family: "Arvo";
+    font font-weight: 300;
+    font-size: 16px;
+    color: rgb(23, 51, 105);
+    
+    margin-top: 70px;
+    
+}
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Pacifico";
+    font font-weight: 300;
+    color: rgb(18, 37, 72);
+}
+
+header{
+    width: 98%;
+    float: left;
+    padding: 1%;
+    background-color: #3e4276;
+    border-bottom: 2px solid silver;
+}
+p{
+    line-height: 28px;
+    margin-bottom: 25px;
+}
+
+li {
+   text-align: left;  
+   font-family: Arvo;
+}
+.centered {
+    text-align: center;
+}
+a {
+    color:#4d6289;
+       text-decoration: none;
+    -webkit-transition:all.6s ease;
+}
+a:hover{
+color :#10ffff;
+}
+.clear{
+    clear: both;
+}
+
+hr{
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ff9898;
+    margin: 1em 0;
+    padding: 0;
+}
+
+.navbar {
+    font-weight: 800;
+    font-size: 14px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.navbar-inverse {
+    background: #ec5eff;
+        border-color:#ec5eff;
+
+}
+
+.navbar-inverse. navbar-nav> .active> a {
+    background-color: #f8c2ff;
+} 
+ 
+.navbar-inverse. navbar-brand{
+    color: #334fe8;
+    font-weight: bolder;
+    font-size: 40px;
+    letter-spacing: 4px;
+}
+
+#headerwrap { 
+    background: url(zakat.jpg) no-repeat center top;
+    margin-top: -10px;
+    padding-top: 20px;
+    text-align: center;
+    background-attachment: relative;
+    background-position: center center;
+    min-height: 400px;
+    width: 100%;
+    -webkit-background-size: cover;
+    
+}
+#headerwrap h1 { 
+    margin-top: 80px;
+    color: #163962;
+    font-size: 70px;
+    font-weight: 300;
+    letter-spacing: 3px;
+    
+}
+
+#headerwrap h2 { 
+    color: #cfdceb;
+    font-size: 25px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+w. {
+    padding-top: 35px;
+    
+}
+
+.w h4 {
+    font-size: 25px;
+}
+
+#dg {
+    background: #edf8f4;
+    padding-top: 70px;
+    padding-bottom: 70px;
+     text-align: center;
+}
+
+#dg h4 {
+    font-size: 40px;
+}
+
+.tilt {
+    -webkit-transition: all 0.5s ease;
+     -moz-transition: all 0.5s ease;
+     -o-transition: all 0.5s ease;
+     -ms-transition: all 0.5s ease;
+     -transition: all 0.5s ease;
+    
+}
+
+.tilt: hover {
+    -webkit-transition: rotate(-10deg);
+     -moz-transition: rotate(-10deg);
+     -o-transition: rotate(-10deg);
+     -ms-transition: rotate(-10deg);
+     -transition: rotate(-10deg);
+    
+}
+
+
+
+
+.wb {
+    padding-top: 35px;
+    margin-bottom: auto; 
+}
+
+.wb h4 {
+    font-size:35px; 
+}
+
+
+#r {
+    background: #db78ff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#r h4 {
+  color: aqua;
+    font-size: 40px;
+}
+#r p {
+    color: antiquewhite;
+        
+}   
+
+ #katal { 
+    background: url(nic.jpg) no-repeat center top;
+    margin-top: -10px;
+    padding-top: 20px;
+    text-align: center;
+    background-attachment: relative;
+    background-position: center center;
+    min-height: 400px;
+    width: 100%;
+    -webkit-background-size: cover;   
+}
+  #katal h1 { 
+    margin-top: 80px;
+    color: #35c4de;
+    font-size: 70px;
+    font-weight: 300;
+    letter-spacing: 3px;
+      
+}
+#katal h2 { 
+    color: #e17af4;
+    font-size: 25px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+#D7200 { 
+    background: url(re.jpg) no-repeat center top;
+    margin-top: -10px;
+    padding-top: 20px;
+    text-align: center;
+    background-attachment: relative;
+    background-position: center center;
+    min-height: 400px;
+    width: 100%;
+    -webkit-background-size: cover;   
+}
+#D7200 h1 { 
+    margin-top: 80px;
+    color: #35c4de;
+    font-size: 70px;
+    font-weight: 300;
+    letter-spacing: 3px;
+      
+}
+#D7200 h2 { 
+    color: #ff0b69;
+    font-size: 25px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+#D5300 { 
+    background: url(d300.jpg) no-repeat center top;
+    margin-top: -10px;
+    padding-top: 20px;
+    text-align: center;
+    background-attachment: relative;
+    background-position: center center;
+    min-height: 400px;
+    width: 100%;
+    -webkit-background-size: cover;   
+}
+
+#D5300 h1 { 
+    margin-top: 80px;
+    color: #35c4de;
+    font-size: 70px;
+    font-weight: 300;
+    letter-spacing: 3px;
+      
+}
+#D5300 h2 { 
+    color: #ff0b69;
+    font-size: 25px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+
+#s3500 { 
+    background: url(mil.jpg) no-repeat center top;
+    margin-top: -10px;
+    padding-top: 20px;
+    text-align: center;
+    background-attachment: relative;
+    background-position: center center;
+    min-height: 400px;
+    width: 100%;
+    -webkit-background-size: cover;   
+}
+
+#s3500 h1 { 
+    margin-top: 80px;
+    color: #35c4de;
+    font-size: 70px;
+    font-weight: 300;
+    letter-spacing: 3px;
+      
+}
+#s3500 h2 { 
+    color: #ff0b69;
+    font-size: 25px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+
+#B700 { 
+    background: url(210.jpg) no-repeat center top;
+    margin-top: -10px;
+    padding-top: 20px;
+    text-align: center;
+    background-attachment: relative;
+    background-position: center center;
+    min-height: 400px;
+    width: 100%;
+    -webkit-background-size: cover;   
+}
+
+#B700 h1 { 
+    margin-top: 80px;
+    color: #35c4de;
+    font-size: 70px;
+    font-weight: 300;
+    letter-spacing: 3px;
+      
+}
+#B700 h2 { 
+    color: #ff0b69;
+    font-size: 25px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+#D3400 { 
+    background: url(518.jpg) no-repeat center top;
+    margin-top: -10px;
+    padding-top: 20px;
+    text-align: center;
+    background-attachment: relative;
+    background-position: center center;
+    min-height: 400px;
+    width: 100%;
+    -webkit-background-size: cover;   
+}
+
+#D3400 h1 { 
+    margin-top: 80px;
+    color: #35c4de;
+    font-size: 70px;
+    font-weight: 300;
+    letter-spacing: 3px;
+      
+}
+#D3400 h2 { 
+    color: #ff0b69;
+    font-size: 25px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+#D500{ 
+    background: url(D8.jpg) no-repeat center top;
+    margin-top: -10px;
+    padding-top: 20px;
+    text-align: center;
+    background-attachment: relative;
+    background-position: center center;
+    min-height: 400px;
+    width: 100%;
+    -webkit-background-size: cover;   
+}
+
+#D500 h1 { 
+    margin-top: 80px;
+    color: #35c4de;
+    font-size: 70px;
+    font-weight: 300;
+    letter-spacing: 3px;
+      
+}
+#D500 h2 { 
+    color: #ff0b69;
+    font-size: 25px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+#D5500{ 
+    background: url(ult.jpg) no-repeat center top;
+    margin-top: -10px;
+    padding-top: 20px;
+    text-align: center;
+    background-attachment: relative;
+    background-position: center center;
+    min-height: 400px;
+    width: 100%;
+    -webkit-background-size: cover;   
+}
+
+#D5500 h1 { 
+    margin-top: 80px;
+    color: #35c4de;
+    font-size: 70px;
+    font-weight: 300;
+    letter-spacing: 3px;
+      
+}
+#D5500 h2 { 
+    color: #ff0b69;
+    font-size: 25px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+
+#D750{ 
+    background: url(47.jpg) no-repeat center top;
+    margin-top: -10px;
+    padding-top: 20px;
+    text-align: center;
+    background-attachment: relative;
+    background-position: center center;
+    min-height: 400px;
+    width: 100%;
+    -webkit-background-size: cover;   
+}
+
+#D750 h1 { 
+    margin-top: 80px;
+    color: #35c4de;
+    font-size: 70px;
+    font-weight: 300;
+    letter-spacing: 3px;
+      
+}
+#D750 h2 { 
+    color: #ff0b69;
+    font-size: 25px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+
+#key{ 
+    background: url(S.jpg) no-repeat center top;
+    margin-top: -10px;
+    padding-top: 20px;
+    text-align: center;
+    background-attachment: relative;
+    background-position: center center;
+    min-height: 400px;
+    width: 100%;
+    -webkit-background-size: cover;   
+}
+
+#key h1 { 
+    margin-top: 80px;
+    color: #35c4de;
+    font-size: 70px;
+    font-weight: 300;
+    letter-spacing: 3px;
+      
+}
+#key h2 { 
+    color: #ff0b69;
+    font-size: 25px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+
+#mag{ 
+    background: url(open-003.jpg) no-repeat center top;
+    margin-top: -10px;
+    padding-top: 20px;
+    text-align: center;
+    background-attachment: relative;
+    background-position: center center;
+    min-height: 400px;
+    width: 100%;
+    -webkit-background-size: cover;   
+}
+
+#mag h1 { 
+    margin-top: 80px;
+    color: #e30bb1;
+    font-size: 70px;
+    font-weight: 300;
+    letter-spacing: 3px;
+      
+}
+#mag h2 { 
+    color: #ff0b69;
+    font-size: 25px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+
+#mg {
+ background: #9ed3c0;  
+     padding-top: 10px;
+    padding-bottom: 20px;
+    
+     text-align: left;
+    margin-top: 5px;
+    padding-top: 5px;
+    
+    min-height:100px;
+    width: 43%;
+    
+}
+#mg h4 {
+    font-size: 40px;
+
+}
+#onik{ 
+    background: url(zvezd18.jpg) no-repeat center top;
+    margin-top: -10px;
+    padding-top: 20px;
+    text-align: center;
+    background-attachment: relative;
+    background-position: center center;
+    min-height: 400px;
+    width: 100%;
+    -webkit-background-size: cover;   
+}
+
+#onik h1 { 
+    margin-top: 80px;
+    color: #091ba2;
+    font-size: 70px;
+    font-weight: 300;
+    letter-spacing: 3px;
+      
+}
+#onik h2 { 
+    color: #ff0b69;
+    font-size: 25px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
